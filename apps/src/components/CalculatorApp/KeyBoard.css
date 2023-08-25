@@ -1,0 +1,38 @@
+
+button {
+    width: 85px;
+    height: 90px;
+    font-size: 26px;
+    cursor: pointer;
+    border: none;
+    border-top: 1px solid #666;
+    border-right: 1px solid #666;
+  }
+  
+.operator {
+    border-right: none;
+    background-color: #fb9419;
+    color: #fff;
+  }
+  
+    .digit:hover {
+        background-color: #d9d9d9;
+      }
+      
+      .operator:hover {
+        background-color: #c7790f;
+      }
+      .fun:hover {
+        background-color: #aba9a9;
+      }
+      
+     
+    
+      
+      .fun {
+        background-color: #c9c8cc;
+      
+      }
+      .App{
+        margin-left: 600px;
+      }
