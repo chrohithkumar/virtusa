@@ -1,0 +1,34 @@
+
+h2{
+    background-color: brown;
+    margin-bottom: 40px;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    width:300px;
+    background-image: url('https://img.freepik.com/free-vector/seamless-white-interlaced-rounded-arc-patterned-background_53876-97975.jpg?size=626&ext=jpg&ga=GA1.1.726690469.1688023362&semt=ais');
+    padding: 40px;
+    
+
+
+    
+}
+
+.Signup{
+background-color: pink;
+padding-bottom: 40px;
+}
+
+.Submitbutton{
+    border: none;
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+label{
+    text-align: left;
+}
+span{
+    color: red;
+}

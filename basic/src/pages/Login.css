@@ -1,0 +1,37 @@
+
+.Login{
+    background-image: url('https://img.freepik.com/premium-vector/young-woman-with-shopping-cart-customer-buying-gifts-shopping-purchase-concept_529344-1866.jpg?w=740');
+    
+    padding-bottom: 400px;
+    
+  }
+  
+  h2{
+    background-color: brown;
+    margin-top: none;
+    
+  }
+  .Login-input{
+    background-color: pink;
+    width: fit-content;
+    text-align: center;
+    justify-content: center;
+    padding: 40px;
+    border-radius: 20px;
+    padding-top: none;
+  
+  
+  }
+  .submitbutton{
+    border: none;
+    background-color: aqua;
+    border-radius: 5px;
+  }
+  label{
+    text-align:left;
+    
+
+  }
+  span{
+    color: red;
+  }
