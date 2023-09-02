@@ -1,0 +1,27 @@
+.search-field{
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.pics{
+    
+    width: 300px;
+    height: 300px;
+}
+
+.title{
+        text-align: center;
+        background-color: aqua;
+        padding: 20px;
+}
+.card{
+
+    margin:10px 10px;
+}
